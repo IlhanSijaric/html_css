@@ -1,0 +1,40 @@
+body{
+    color: #82a5ca;
+    background-size: cover;
+    background-image: url(https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif);
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    height: 300vh;
+}
+.main{
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+button{
+    color: #82a5ca;
+    font-family: inherit;
+    padding: 6px 12px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.linee{
+    border-bottom: 5px solid white;
+    border-radius: 5px;
+}
+
+
+.spacex{
+    width: 300px;
+
+}
+.dr{
+    background-color: #82a5ca2c;
+    border: 1px solid rgba(255, 255, 255, 0);
+    border-radius: 3px;
+    height: 50px;
+    padding-top: 5px;
+    position: sticky;
+    top: 10px;
+}
